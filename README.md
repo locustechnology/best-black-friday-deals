@@ -85,7 +85,8 @@ Explore deals on Artificial Intelligence-powered tools for development, design, 
 | -- | ---| ------ | ------ |
 |  🟢 | [PDF Pals](https://pdfpals.com) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 53% OFF with code **BFCM2024** |
 |  🔵 | [Reinspire](https://reinspire.io) | Transform your Audio/Video Content into Transcripts, Newsletters, Blog Posts, Timestamps and more. Content Repurposing Made Easy!  | 20% OFF with code **FRIDAY20** |
-|  🟣 | [GoStudio.ai](https://www.gostudio.ai/) | Create studio-quality AI headshots and branding photos in minutes. | **30% OFF** on all plans with code **GS30**. Valid from **Nov 20, 2025 – Jan 5, 2026**. [Get the Deal](https://www.gostudio.ai/pricing) |
+|  🟣 | [GoStudio.ai](https://www.gostudio.ai/) | Create studio-quality AI headshots and branding photos in minutes.Create custom studio-quality AI headshots, portraits, and branding photos in       for LinkedIn, teams, and personal branding.
+| **30% OFF** on all plans with code **GS30**. [Get the Deal](https://www.gostudio.ai/pricing) |
 
 
 ### 7. Apps 💻
